@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
- 3. User password
+ 3. User
 """
 import hashlib
 import uuid
